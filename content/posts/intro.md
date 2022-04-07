@@ -13,3 +13,5 @@ Para mi la cultura de un profesional del software se basa en lo siguiente:
 - Responsabilidad
 - Confianza
 - Agilidad
+- Curiosidad
+- Autodidacta
