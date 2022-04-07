@@ -9,13 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy Lenin Facio. Tengo 19 años. Me apasiona la tecnología, la ciberseguridad y la programación.
+Soy un programador en desarrollo para convertirse en fullstack developer.
+Estoy tomando varios cursos de ciberseguridad.
+Soy creador de contenido digital en redes sociales enfocado a la tecnología porque  me gusta aprender y poder compartir ese conocimiento con el objetivo de inspirar a los demás para que se inicien en este mundo tecnológico.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
 
